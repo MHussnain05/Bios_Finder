@@ -1,0 +1,12 @@
+{
+    "name": "BIOS Finder",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "A tool to find BIOS information",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "nativeMessaging"
+    ]
+}
