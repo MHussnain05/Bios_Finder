@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8Qhg/QHi2Wy6+UZ8UYcE2PGm3E21r4UflK3+EwYzebTC1Y0GjEpAIwqAWDd08FCi18g6JSXMVTTmpr2F1ppKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hussnain\\source\\repos\\BIOSFinder\\BIOSFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hussnain\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hussnain\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
